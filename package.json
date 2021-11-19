@@ -1,7 +1,7 @@
 {
   "name": "tetris",
   "version": "1.0.0",
-  "description": "tetris game",
+  "description": "---\r [ LIVE  Demo](https://barisdevjs.github.io/Js-Projects/)",
   "main": "tetris.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/barisdevjs/Tetris.git"
   },
-  "keywords": [
-    "tetris"
-  ],
   "author": "",
   "license": "ISC",
   "bugs": {
