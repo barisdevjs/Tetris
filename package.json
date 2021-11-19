@@ -15,5 +15,12 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/barisdevjs/Tetris#readme"
+  "homepage": "https://github.com/barisdevjs/Tetris#readme",
+  "bugs": {
+    "url": "https://github.com/barisdevjs/Tetris/issues"
+  },
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
