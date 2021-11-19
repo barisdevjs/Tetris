@@ -4,7 +4,7 @@
 
 ## Below you will see the page of a game
 
-![alt text](https://github.com/barisdevjs/Js-Projects/blob/main/Tetris/tetris.jpg)
+![alt text](https://github.com/barisdevjs/Tetris/blob/main/tetris.jpg)
 
 ---
 
