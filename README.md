@@ -1,6 +1,6 @@
 # This is a Tetris
 ---
-[ LIVE  Demo](https://barisdevjs.github.io/Js-Projects/)
+[ LIVE  Demo](https://flamboyant-nobel-bdb6fc.netlify.app/)
 
 ## Below you will see the page of a game
 
